@@ -1,4 +1,7 @@
 # movie-info
+vue3
+optionApi
+
 
 ## Project setup
 ```
